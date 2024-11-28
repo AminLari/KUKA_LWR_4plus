@@ -53,6 +53,13 @@ This project focuses on simulating the kinematic and dynamic model of the KUKA L
 - Simulation of trajectory of the robotic arm using RVC toolbox:
 <p> <img src="https://github.com/user-attachments/assets/b19b7118-a870-4206-9045-b61896b5a9b5" width="1000"> </p>  
 
-## Contact
-For questions or suggestions, please contact Amin Lari.
+
+## 📞 Contact
+If you have any questions, feedback, or suggestions regarding this project, feel free to reach out:
+
+- **Name**: Mohammadamin Lari  
+- **Email**: [mohammadamin.lari@gmail.com](mailto:mohammadamin.lari@gmail.com)  
+- **GitHub**: [AminLari](https://github.com/aminlari)
+
+You are welcome to create issues or pull requests to improve the project. Contributions are highly appreciated! 
 
