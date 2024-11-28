@@ -2,6 +2,7 @@
 
 ## Overview
 This project focuses on simulating the kinematic and dynamic model of the KUKA LWR4+, an industrial serial robot, using MATLAB. It includes inverse dynamics, forward and inverse kinematics, and linearization of motion equations.
+<p> <img src="https://github.com/user-attachments/assets/973709a6-537d-41a8-b6b0-fd4203f781aa" width="1000"> </p>  
 
 ## Features
 - **Dynamic Modeling:** Derives and simulates the robot's equations of motion.
