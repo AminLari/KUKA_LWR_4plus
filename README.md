@@ -48,6 +48,12 @@ This project focuses on simulating the kinematic and dynamic model of the KUKA L
    
 ## Results
 - Simulate the equations of motion in KUKA_Linear.slx.
+<p> <img src="https://github.com/user-attachments/assets/d7ad30f7-1c93-465c-b701-3261c972ad2e" width="1000"> </p>  
+
+- Simulation of trajectory of the robotic arm
+<video width="640" height="360" controls>
+<source src="https://github.com/user-attachments/assets/cb44c257-c2fb-48c4-86db-4190d95fd581" type="video/mp4">
+</video>
 
 ## Contact
 For questions or suggestions, please contact Amin Lari.
