@@ -27,7 +27,7 @@ This project focuses on simulating the kinematic and dynamic model of the KUKA L
 ### Steps
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/AminLari/KUKA_LWR_4plus.git
+   git clone https://github.com/AminLari/KUKA-LWR-4plus-Robotic-Manipulator.git
    cd KUKA-LWR-4plus
 
 2. **Run the MATLAB scripts:**
